@@ -1,0 +1,4 @@
+#Mon Oct 19 19:47:36 CST 2020
+base.0=C\:\\Android\\AndroidProject\\Android_QQtool\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

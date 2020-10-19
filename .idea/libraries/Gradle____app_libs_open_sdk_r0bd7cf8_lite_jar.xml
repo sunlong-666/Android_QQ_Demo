@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/open_sdk_r0bd7cf8_lite.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/open_sdk_r0bd7cf8_lite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

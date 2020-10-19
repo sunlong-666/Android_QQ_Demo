@@ -1,0 +1,92 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.github.sunlong6666.android_qqtool"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:8:5-43:19
+15        android:allowBackup="true"
+15-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.1] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ff37b710ecf84191a2687617c776753e\core-1.3.1\AndroidManifest.xml:24:18-86
+17        android:extractNativeLibs="false"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:11:9-43
+19        android:label="@string/app_name"
+19-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:12:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:13:9-54
+21        android:supportsRtl="true"
+21-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:14:9-35
+22        android:theme="@style/Theme.Android_QQtool"
+22-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:15:9-52
+23        android:usesCleartextTraffic="true" >
+23-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:10:9-44
+24        <activity
+24-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:17:9-27:20
+25            android:name="com.tencent.tauth.AuthActivity"
+25-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:18:13-58
+26            android:launchMode="singleTask"
+26-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:20:13-44
+27            android:noHistory="true" >
+27-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:19:13-37
+28            <intent-filter>
+28-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:21:13-26:29
+29                <action android:name="android.intent.action.VIEW" />
+29-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:22:17-69
+29-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:22:25-66
+30
+31                <category android:name="android.intent.category.DEFAULT" />
+31-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:23:17-76
+31-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:23:27-73
+32                <category android:name="android.intent.category.BROWSABLE" />
+32-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:24:17-78
+32-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:24:27-75
+33
+34                <data android:scheme="tencent101889943" />
+34-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:25:17-59
+34-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:25:23-56
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:29:9-34:20
+38            android:name="com.tencent.connect.common.AssistActivity"
+38-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:30:13-69
+39            android:configChanges="orientation|keyboardHidden"
+39-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:31:13-63
+40            android:screenOrientation="behind"
+40-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:32:13-47
+41            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+41-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:33:13-72
+42        </activity>
+43        <activity android:name="com.github.sunlong6666.android_qqtool.MainActivity" >
+43-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:36:9-41:20
+43-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:36:19-47
+44            <intent-filter>
+44-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:37:13-40:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:38:17-69
+45-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:38:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:39:17-77
+47-->C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:39:27-74
+48            </intent-filter>
+49        </activity>
+50    </application>
+51
+52</manifest>

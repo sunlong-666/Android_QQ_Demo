@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ef65eb46079c4e4e8fdff66f1cfdf6a0\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\a527ad4f532df6b258c428a911debd89\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\85bbcabe709b3efb54d74d18f7977a81\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\0d889d0bca3861f2da10545da7c4132e\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\935c1eb103e362446c63f75dbc889f07\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\045ecda214dc48a7b6794acabc444ee0\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\142e93d95da0344235eb82ee7f05a108\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ef9c997edfa62b91e0d370b598210169\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\0d4494bee4a56a30051f107c7a8e3c94\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\04d9fa679ff5e7b592ee980c8b38c907\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\715ac09ebebe6f055fd8c27935b09c71\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\24a7c4b656e8849fce6b1ec879de45c1\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\b437c8e4cf053fd87bc8836cb75ffd62\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\a8f36a69659c55a007f35cfecb9dcfc6\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\7b541f4196cf846f7dd467165838e072\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\28b4aa78b7d7c16150815353e8235a9e\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\dcd86c4e1bc7b82faa13cfa95eb5ce30\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ff37b710ecf84191a2687617c776753e\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\94115104efb23786ea53cd1a51dde3af\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\eb25aa6fb92793269536cebf4ca0a993\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\cbfdfe08c267cf71c6eae9047a7b16ca\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\335a1a6eb49eac2eab041286c81584a5\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\884715ee5d4759e99f0bf4b3058e7279\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\31a15a162cd7bb718e862c0cc13bfa61\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\af090a78eaea8296976d6555a3a135f2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\4277c449ae4e7defb11901a027a49277\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\01339aeadc2379d14234ec1725fb1d1d\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:8:5-43:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ef65eb46079c4e4e8fdff66f1cfdf6a0\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ef65eb46079c4e4e8fdff66f1cfdf6a0\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ff37b710ecf84191a2687617c776753e\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ff37b710ecf84191a2687617c776753e\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\94115104efb23786ea53cd1a51dde3af\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\94115104efb23786ea53cd1a51dde3af\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ff37b710ecf84191a2687617c776753e\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:15:9-52
+	android:usesCleartextTraffic
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:10:9-44
+activity#com.tencent.tauth.AuthActivity
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:17:9-27:20
+	android:launchMode
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:20:13-44
+	android:noHistory
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:18:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tencent101889943
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:21:13-26:29
+action#android.intent.action.VIEW
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:23:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:24:17-78
+	android:name
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:24:27-75
+data
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:25:17-59
+	android:scheme
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:25:23-56
+activity#com.tencent.connect.common.AssistActivity
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:29:9-34:20
+	android:screenOrientation
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:32:13-47
+	android:configChanges
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:31:13-63
+	android:theme
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:33:13-72
+	android:name
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:30:13-69
+activity#com.github.sunlong6666.android_qqtool.MainActivity
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:36:9-41:20
+	android:name
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:36:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ef65eb46079c4e4e8fdff66f1cfdf6a0\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ef65eb46079c4e4e8fdff66f1cfdf6a0\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\a527ad4f532df6b258c428a911debd89\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\a527ad4f532df6b258c428a911debd89\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\85bbcabe709b3efb54d74d18f7977a81\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\85bbcabe709b3efb54d74d18f7977a81\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\0d889d0bca3861f2da10545da7c4132e\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\0d889d0bca3861f2da10545da7c4132e\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\935c1eb103e362446c63f75dbc889f07\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\935c1eb103e362446c63f75dbc889f07\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\045ecda214dc48a7b6794acabc444ee0\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\045ecda214dc48a7b6794acabc444ee0\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\142e93d95da0344235eb82ee7f05a108\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\142e93d95da0344235eb82ee7f05a108\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ef9c997edfa62b91e0d370b598210169\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ef9c997edfa62b91e0d370b598210169\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\0d4494bee4a56a30051f107c7a8e3c94\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\0d4494bee4a56a30051f107c7a8e3c94\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\04d9fa679ff5e7b592ee980c8b38c907\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\04d9fa679ff5e7b592ee980c8b38c907\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\715ac09ebebe6f055fd8c27935b09c71\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\715ac09ebebe6f055fd8c27935b09c71\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\24a7c4b656e8849fce6b1ec879de45c1\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\24a7c4b656e8849fce6b1ec879de45c1\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\b437c8e4cf053fd87bc8836cb75ffd62\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\b437c8e4cf053fd87bc8836cb75ffd62\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\a8f36a69659c55a007f35cfecb9dcfc6\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\a8f36a69659c55a007f35cfecb9dcfc6\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\7b541f4196cf846f7dd467165838e072\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\7b541f4196cf846f7dd467165838e072\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\28b4aa78b7d7c16150815353e8235a9e\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\28b4aa78b7d7c16150815353e8235a9e\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\dcd86c4e1bc7b82faa13cfa95eb5ce30\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\dcd86c4e1bc7b82faa13cfa95eb5ce30\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ff37b710ecf84191a2687617c776753e\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\ff37b710ecf84191a2687617c776753e\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\94115104efb23786ea53cd1a51dde3af\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\94115104efb23786ea53cd1a51dde3af\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\eb25aa6fb92793269536cebf4ca0a993\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\eb25aa6fb92793269536cebf4ca0a993\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\cbfdfe08c267cf71c6eae9047a7b16ca\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\cbfdfe08c267cf71c6eae9047a7b16ca\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\335a1a6eb49eac2eab041286c81584a5\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\335a1a6eb49eac2eab041286c81584a5\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\884715ee5d4759e99f0bf4b3058e7279\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\884715ee5d4759e99f0bf4b3058e7279\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\31a15a162cd7bb718e862c0cc13bfa61\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\31a15a162cd7bb718e862c0cc13bfa61\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\af090a78eaea8296976d6555a3a135f2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\af090a78eaea8296976d6555a3a135f2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\4277c449ae4e7defb11901a027a49277\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\4277c449ae4e7defb11901a027a49277\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\01339aeadc2379d14234ec1725fb1d1d\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sunlong\.gradle\caches\transforms-2\files-2.1\01339aeadc2379d14234ec1725fb1d1d\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidProject\Android_QQtool\app\src\main\AndroidManifest.xml
