@@ -11,6 +11,7 @@ public class AppData
     //SCOPE，应用需要获得哪些API的权限,由“,”分隔。例如:SCOPE = “get_user_info,add_t”;所有权限用“all”。
     public static String SCOPE = "all";
 
+    //APP的ID，通过腾讯开放平台获取
     public final static String APP_ID = "101889943";
 
 }
